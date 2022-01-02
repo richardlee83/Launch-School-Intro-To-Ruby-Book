@@ -13,4 +13,3 @@
 #   calculate_product instead of 2 arguments required for the method 
 # - The method is invoked on line 4.
 # - The ArgumentError occurs on line 1 where calculate_product is defined.
-
