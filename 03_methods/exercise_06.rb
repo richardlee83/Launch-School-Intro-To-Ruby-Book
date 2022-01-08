@@ -14,6 +14,10 @@
 # - The method is invoked on line 4.
 # - The ArgumentError occurs on line 1 where calculate_product is defined.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 001
 =======
 
 >>>>>>> 001
