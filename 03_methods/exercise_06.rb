@@ -15,6 +15,10 @@
 # - The ArgumentError occurs on line 1 where calculate_product is defined.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 001
 =======
 
 >>>>>>> 001
